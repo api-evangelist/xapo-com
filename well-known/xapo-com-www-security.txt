@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:responsible-disclosure@xapo.com
+Expires: 2028-12-31T00:00:00.000Z
+Encryption: https://keys.mailvelope.com/pks/lookup?op=get&search=responsible-disclosure@xapo.com
+Acknowledgments: https://legal.xapobank.com/misc/responsible-disclosure-policy
+Preferred-Languages: en
+Canonical: https://www.xapobank.com/.well-known/security.txt
+Policy: https://legal.xapobank.com/misc/responsible-disclosure-policy
+-----BEGIN PGP SIGNATURE-----
+
+wsFzBAEBCAAnBYJlnsOKCZBNaOPkZW6rzxYhBOlOjBwd3Citzw1aKE1o4+Rl
+bqvPAACg0Q/9GOVLQ+sCMdSsm/S+K3Ws8EHjSWvZzIuwvVWCkvyvCp1gMRnf
+64JKG7uYgxFiQZYk+fWLbDeNqfYtwoyMItjq/fXAokBmy75ImWqrMqzGLgzE
+aLKxsYRiJ8zZUGuT16jJLvIJEUQvcX9kFyKKL6e08K0OyAGStz09Ngm6iUaY
+5+lq7NvM8d+PS72lpKyhx1RcLN4tc1VnLi9gUBoZOEICcSmnJmJ0V4eXL/PQ
+y38lYTVGCPaR1aa724GFx27nYKLoIt3eetFgNwWX52WLiB70jAnRSaNDRdRH
+YHV+kuSGcXekcXVq4B67MyZ7dxkDlqxFohlBt8i5DmtT9fj929r67Iijb24I
+DgWq3wYJsk1u55d+JzPePOm3V8OB0v0OlAbLMf+w6nFxGS9K7B8Vs/EbAOli
+2k/j9O3Vlt5ZildiR9p2g6BSnCyj8z7AH/ZnPTMJ+SO5SiCoPFelGH4qYR2f
+tf9fY62OcUMMqJbIol37gN+pXj/ngZV4JHR7tHUOkt6bE1P2l6YkSXuqXMuS
+zsmSCKGA4t5/MHjNor40qQYQyc/ZAoOvl0hdiyWLc8jpcf0ewJ7Z1B5yaVts
+0SA524FTqAk9oqPJ9NzYFQxvu+AfsL/oml0i5E4OkJJ4Pc0a4mQVCOmM5ezu
+etQr9LyPCNls/NfJ89Ed5v/IxO5c7WfeyVU=
+=l12z
+-----END PGP SIGNATURE-----
